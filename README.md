@@ -15,3 +15,5 @@ Coded by [@yevehene](https://twitter.com/yevhene) with [@vgrichina](https://twit
 Music: https://8bc.org/music/Flip-Flop/Alone+in+the+Dark/ 
 
 Based on CraftyJS engine: http://craftyjs.com 
+
+Ludum Dare 22 entry: http://www.ludumdare.com/compo/ludum-dare-22/?action=preview&uid=8400
